@@ -30,7 +30,8 @@
   },
   "main": "./lib/winston",
   "scripts": {
-    "test": "vows --spec --isolate"
+    "test": "vows --dot-matrix --isolate",
+    "preversion": "node scripts/preversion.js"
   },
   "engines": {
     "node": ">= 0.6.0"
