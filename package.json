@@ -1,10 +1,11 @@
 {
-  "name": "winston",
+  "name": "@petrocloud/winston",
   "description": "A multi-transport async logging library for Node.js",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "author": "Nodejitsu Inc. <info@nodejitsu.com>",
   "maintainers": [
-    "indexzero <charlie@nodejitsu.com>"
+    "indexzero <charlie@nodejitsu.com>",
+    "luislobo <luislobo@gmail.com>"
   ],
   "repository": {
     "type": "git",
