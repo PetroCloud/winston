@@ -1,0 +1,10 @@
+node_modules
+scripts/preversion.js
+*.tgz
+.idea
+
+# Tests and fixtures not needed in published package (optional)
+test
+scripts
+.jshintrc
+.travis.yml
